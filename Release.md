@@ -1,3 +1,3 @@
 ### Features
 
-* Adds a `completion` command for shell completions.
+* Added a new plugin "http2http" which allows forwarding HTTP requests to another HTTP server, supporting options like local address binding, host header rewrite, and custom request headers.
